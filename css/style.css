@@ -46,6 +46,7 @@ header {
                     color: white;
                     border-radius: 30px;
                     font-weight: 600;
+                    transition: all 0.3s ease;
                 }
 
                 & a:hover {
